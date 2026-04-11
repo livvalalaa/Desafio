@@ -1,0 +1,36 @@
+
+========================================
+Relatório de Folha de Pagamento
+========================================
+
+Nome: Alex
+Tipo: clt
+Salário Bruto: R$ 30000.00
+Desconto INSS: R$ 2400.00
+Desconto IRRF: R$ 3000.00
+Salário Líquido: R$ 24600.00
+--------------------
+Nome: Angelina
+Tipo: freelancer
+Salário Bruto: R$ 150.00
+Desconto INSS: R$ 7.50
+Desconto IRRF: R$ 0.00
+Salário Líquido: R$ 142.50
+--------------------
+Nome: Renan
+Tipo: estagiário
+Salário Bruto: R$ 5000.00
+Desconto INSS: R$ 0.00
+Desconto IRRF: R$ 0.00
+Salário Líquido: R$ 5000.00
+--------------------
+Nome: Alice
+Tipo: clt
+Salário Bruto: R$ 300.00
+Desconto INSS: R$ 24.00
+Desconto IRRF: R$ 0.00
+Salário Líquido: R$ 276.00
+--------------------
+
+Total pago pela empresa: R$ 30018.50
+========================================
